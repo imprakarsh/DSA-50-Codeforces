@@ -1,4 +1,4 @@
-# DSA-50-Codeforces
+# DSA-VPLANET_COURSE_2
 Course-2 By VPLANET 50 Questions(approx) 
 
 Mid level questions form all topics <br/>
